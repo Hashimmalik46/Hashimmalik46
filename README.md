@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **hashimzahoor2003@gmail.com**
 
-- 📫 Checkout my portfolio <a>hashimmalikin</a>
+- 📫 Checkout my portfolio <a  href="hashimmalik.in" target="blank">hashimmalikin</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
