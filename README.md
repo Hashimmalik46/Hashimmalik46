@@ -67,6 +67,8 @@
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
+  
+<br></br>
 
   <!-- Node.js -->
   <a href="https://nodejs.org/" target="_blank">
