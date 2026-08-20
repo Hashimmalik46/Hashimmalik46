@@ -2,7 +2,7 @@
 
 <h3 align="center">A Software & Design Enthusiast</h3>
 
-<img align="right" alt="coding" width="400" height="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="300" height="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **Backend Development | Node.js, Express & MongoDB**
 
