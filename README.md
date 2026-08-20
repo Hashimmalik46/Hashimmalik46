@@ -2,11 +2,11 @@
 <h3 align="center">A Software & Design Enthusiast</h3>
 <img align="right" alt="coding" width="400" height="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **Backend Development | Node.js, Express & MongoDB**
 
 - 📫 How to reach me **hashimzahoor2003@gmail.com**
 
-- 📫 Checkout my portfolio <a  href="https://hashimmalik.in" target="blank">hashimmalik.in</a>
+- 💼 Checkout my portfolio <a  href="https://hashimmalik.in" target="blank">hashimmalik.in</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
